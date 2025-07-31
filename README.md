@@ -5,6 +5,7 @@
 This project was developed as part of the RoboMasters robotics competition, which is a high-level robot combat contest. Participants design and build robots capable of completing assigned tasks, including automatic and manual targeting systems.
 
 The system focuses on using computer vision to recognize and track red and blue targets in real time and control a dual-axis gimbal for aiming.
+👉 See the [Detailed System Documentation](README_detailed.md)
 
 ---
 
